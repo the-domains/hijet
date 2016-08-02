@@ -1,0 +1,14 @@
+layout_spectrum: 0.511248201597482
+typography_spectrum: 0.9292942238971591
+color:
+  brandStrength: 0.2532592541538179
+  lightness: 0.3553671729750931
+  saturation: 0.24542972794733942
+  rhythmicContrast: 0.0629777426365763
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: HiJet
